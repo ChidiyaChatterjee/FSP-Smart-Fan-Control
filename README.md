@@ -54,17 +54,17 @@ LDR: 577 | Fan: OFF
 LDR: 3728 | Fan: ON
 LDR: 1074 | Fan: OFF
 ```
-ThingSpeak Dashboard
+## ThingSpeak Dashboard
 
 The following charts show the data uploaded by the ESP32 to ThingSpeak.
 
-LDR Sensor Readings
+### LDR Sensor Readings
 
-ldr-readings.png
+![LDR Sensor Readings](ldr-readings.png)
 
-Fan Status
+### Fan Status
 
-fan-status.png
+![Fan Status](fan-status.png)
 
 ## Getting Started
 
